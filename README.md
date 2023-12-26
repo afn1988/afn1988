@@ -3,7 +3,7 @@ Hi, I am [Abel Neto](https://www.linkedin.com/in/abelfernandesneto/) a full stac
 - :running: I'm currently working on a MEAN app
 - 🌱 I’m currently learning <a href="https://fastapi.tiangolo.com/" target="_blank">FastAPI <img height="12" src="https://fastapi.tiangolo.com/img/favicon.png"></a>
 - :book: I’m currently reading the Words of Radiance (Stormlight Archive) by Brandon Sanderson,
-- :hearts: Built Legos, Tabletop Games & Play Tennis
+- :hearts: Build Legos, Tabletop Games & Play Tennis
 - 💼 any freelance work? do reach, [email](mailto:neto.abel@gmail.com) :smiley: 
 - 💬 ask me about anything, i am happy to help;
 
