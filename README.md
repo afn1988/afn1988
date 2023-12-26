@@ -1,7 +1,7 @@
 Hi, I am [Abel Neto](https://www.linkedin.com/in/abelfernandesneto/) a full stack developer from Portugal <img height="12" src="https://flagicons.lipis.dev/flags/4x3/pt.svg">. I've studied [Computer and Telematics Engineering](https://www.ua.pt/en/curso/23) in *Universidade de Aveiro* and I'm currently working with [Altar.io <img height="13" src="https://emoji.slack-edge.com/T5KCR4CPL/altar/8713023f313e553b.png">](https://altar.io/)
 
 - :running: I'm currently working on a MEAN app
-- 🌱 I’m currently learning [FastAPI <img height="12" src="https://fastapi.tiangolo.com/img/favicon.png">](https://fastapi.tiangolo.com/)
+- 🌱 I’m currently learning <a href="https://fastapi.tiangolo.com/" target="_blank">FastAPI <img height="12" src="https://fastapi.tiangolo.com/img/favicon.png"></a>
 - :book: I’m currently reading the Words of Radiance (Stormlight Archive) by Brandon Sanderson,
 - :hearts: Built Legos, Tabletop Games & Play Tennis
 - 💼 any freelance work? do reach, [email](mailto:neto.abel@gmail.com) :smiley: 
