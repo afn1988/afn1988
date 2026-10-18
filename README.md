@@ -1,33 +1,39 @@
-Hi, I am [Abel Neto](https://www.linkedin.com/in/abelfernandesneto/) a full stack developer from Portugal <img height="12" src="https://flagicons.lipis.dev/flags/4x3/pt.svg">. I've studied [Computer and Telematics Engineering](https://www.ua.pt/en/curso/23) in *Universidade de Aveiro* and I'm currently working with [Altar.io <img height="13" src="https://emoji.slack-edge.com/T5KCR4CPL/altar/8713023f313e553b.png">](https://altar.io/)
+## Hi, I'm Abel 👋
 
-- :running: I'm currently working on a MEAN app
-- 🌱 I’m currently learning <a href="https://fastapi.tiangolo.com/" target="_blank">FastAPI <img height="12" src="https://fastapi.tiangolo.com/img/favicon.png"></a>
-- :book: I’m currently reading the Words of Radiance (Stormlight Archive) by Brandon Sanderson,
-- :hearts: Build Legos, Tabletop Games & Play Tennis
-- 💼 any freelance work? do reach, [email](mailto:neto.abel@gmail.com) :smiley: 
-- 💬 ask me about anything, i am happy to help;
+I'm [Abel Neto](https://www.linkedin.com/in/abelfernandesneto/), a full-stack developer from Portugal 🇵🇹.
 
-##### *Languages & Tools:*  
-[<img height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>](https://pt.wikipedia.org/wiki/JavaScript)
-[<img height="24" src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae"/>](https://www.typescriptlang.org/)
-[<img height="24" src="https://www.python.org/static/favicon.ico"/>](https://www.python.org/)
-[<img height="24" src="https://dart.dev/assets/shared/dart/icon/64.png">](https://dart.dev)
-&nbsp;&nbsp;&nbsp;[<img height="24" src="https://www.mongodb.com/assets/images/global/favicon.ico">](https://www.mongodb.com/)
-[<img height="24" src="https://www.postgresql.org/favicon.ico">](https://www.postgresql.org/)
+I studied [Computer and Telematics Engineering](https://www.ua.pt/en/curso/23) at **Universidade de Aveiro** and currently work at [obconnect](https://obconnect.io/), part of the **PayPoint Group**.
 
-[<img height="24" src="https://nodejs.org/static/images/favicons/favicon.png">](https://nodejs.org/en) 
-&nbsp;&nbsp;[<img height="24" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png">](https://flutter.dev/)
-&nbsp;&nbsp;[<img height="24" src="https://react.dev/favicon.ico">](https://react.dev/) 
-[<img height="24" src="https://angular.io/assets/images/favicons/favicon.ico">](https://angular.io/)
-&nbsp;&nbsp;[<img height="24" src="https://expressjs.com/images/favicon.png">](https://expressjs.com/)
-[<img height="24" src="https://fastapi.tiangolo.com/img/favicon.png">](https://fastapi.tiangolo.com/)
+- 🏃 Currently working on a MEAN app.
+- 🌱 Learning [FastAPI](https://fastapi.tiangolo.com/).
+- 📖 Reading *Red Rising* by Pierce Brown.
+- ❤️ Outside of coding: building LEGO, playing tabletop games, and playing tennis.
+- 💼 Have a freelance project in mind? [Let's talk!](mailto:neto.abel@gmail.com)
+- 💬 Ask me anything—I'm happy to help.
 
-[<img height="24" src="https://code.visualstudio.com/favicon.ico">](https://code.visualstudio.com/)
-[<img height="24" src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1d/20200803065359%21PyCharm_Icon.svg">](https://www.jetbrains.com/pycharm/)
-[<img height="24" src="https://git-scm.com/favicon.ico">](https://git-scm.com/)
-[<img height="24" src="https://www.postman.com/_ar-assets/images/favicon-1-32.png">](https://www.postman.com/)
+### Languages & Tools
 
+#### Languages
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" height="40" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40" height="40" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40" height="40" /></a>
 
+#### Frameworks & Runtimes
 
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="40" height="40" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" height="40" /></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" width="40" height="40" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" width="40" height="40" /></a>
 
+#### Databases
+
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="40" height="40" /></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" /></a>
+
+#### Development Tools
+
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" /></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" width="40" height="40" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" height="40" /></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="40" height="40" /></a>
